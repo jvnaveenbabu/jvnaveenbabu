@@ -1,7 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="left">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Naveen Babu</h1>
-<h3 align="left">I'm a passionate Full Stack Developer and FrontEnd Web Developer focused on building beautiful interface & Experience, <br>  currently a <b>Junior Year Student </b> in <b>Computer Science & Engineer Student </b> <a href="https://www.gitam.edu/">@Gitam University 🎓</a> <br> and core team member at <a href="https://dsc-website-v2.vercel.app/">@DSC GITAM 👨‍💻</a> 
+<h1 align="left">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span style="color:#0366d6">I'm Naveen Babu </span></h1>
+<p align="left">I'm a passionate Full Stack Developer and Frontend Web Developer focused on building beautiful interface & Experience, <br>  currently a <b>Junior Year Student </b> in <b>Computer Science & Engineer Student </b> <a href="https://www.gitam.edu/">@Gitam University 🎓</a> <br> and core team member at <a href="https://dsc-website-v2.vercel.app/">@DSC GITAM 👨‍💻</a> 
 
 <br />
 <br />
@@ -41,8 +41,6 @@
 
 </p>
 
-<br/>
-
 ## Connect Me At:
 
 <p align="left">
@@ -53,7 +51,6 @@
 <a href = "https://www.instagram.com/webdev.commune/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
 
 <br />
 
