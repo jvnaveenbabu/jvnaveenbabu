@@ -44,10 +44,10 @@
 
 <p align="left">
 
-<a href="mailto:jvnaveenbabu264@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/mail.png"/></a>
-<a href = "https://www.linkedin.com/in/j-v-naveen-babu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/JVNaveenBabu1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/webdev.commune/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="mailto:jvnaveenbabu264@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/mail.png"/></a>
+<a href = "https://www.linkedin.com/in/j-v-naveen-babu/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/JVNaveenBabu1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/webdev.commune/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
