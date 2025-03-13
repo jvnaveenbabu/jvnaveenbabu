@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span style="color:#0366d6"> I'm Naveen Babu</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer, dedicated to optimizing IT infrastructure and software delivery pipelines. With a solid foundation in cloud technologies and container orchestration.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 - 🔭 I’m currently working at **[Tata Consultancy and Services](https://www.tcs.com/)**
 
