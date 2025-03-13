@@ -1,70 +1,30 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<h1 align="center">Hi Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span style="color:#0366d6"> I'm Naveen Babu</h1>
+<h3 align="center">A passionate Cloud and DevOps Engineer, dedicated to optimizing IT infrastructure and software delivery pipelines. With a solid foundation in cloud technologies and container orchestration.</h3>
 
-<h1 align="left">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <span style="color:#0366d6">I'm Naveen Babu </span></h1>
-<p align="left" style="font-size:16px">I'm a passionate Full Stack Developer and Frontend Web Developer focused on building beautiful interface & Experience, <br>  currently a <b>Junior Year Student </b> in <b>Computer Science & Engineer Student </b> <a href="https://www.gitam.edu/">@Gitam University 🎓</a> <br> and core team member at <a href="https://dsc-website-v2.vercel.app/">@DSC GITAM 👨‍💻</a> 
-
-<br />
-
-- 🔭 I’m currently working on **[Ecommerce-Website](https://github.com/jvnaveenbabu/KIWU-Fashions)**
+- 🔭 I’m currently working at **[TCS](https://www.tcs.com/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
+- 👨‍💻 All of my projects are available at [https://github.com/jvnaveenbabu](https://github.com/jvnaveenbabu?tab=repositories)
+
 - 📫 How to reach me **jvnaveenbabu264@gmail.com**
 
-- ⚡ Fun fact **Make it fun and Professional.**
-
-- 📑 Know about my experience <a href="https://drive.google.com/file/d/13YnPGIaMXdBtIa_ImOtOSEjfxShOTabn/view?usp=sharing">Naveen's Resume</a>
+- ⚡ Fun fact **The cloud isn't in the sky!**
 
 
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-    <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
-    <img src="https://img.icons8.com/fluent/48/000000/console.png"/>
-    <img src="https://img.icons8.com/fluent/48/000000/old-vmware-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/figma.png"/>
-    <img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
-
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <img src="https://img.icons8.com/color/48/000000/git.png"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a></p>
 
 ## Connect Me At:
 
 <p align="left">
 
-<a href="mailto:jvnaveenbabu264@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/mail.png"/></a>
-<a href = "https://www.linkedin.com/in/j-v-naveen-babu/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/JVNaveenBabu1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/webdev.commune/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="mailto:jvnaveenbabu264@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/mail.png"/></a> <a href = "https://www.linkedin.com/in/j-v-naveen-babu/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "https://twitter.com/JVNaveenBabu1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> <a href = "https://www.instagram.com/webdev.commune/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
-<br />
 
 <p align="left">
     <a href="https://github.com/jvnaveenbabu/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Naveen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jvnaveenbabu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-<details close>
-<summary><b>📊 My Github Stats</b> <i>(Click to Expand !)</i></summary>
-  <br/>
-    <a href="https://github.com/jvnaveenbabu/github-readme-stats"><img alt="Naveen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jvnaveenbabu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/jvnaveenbabu/github-readme-stats"><img alt="Naveen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvnaveenbabu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-</details>
-<br/>
-<br/>
